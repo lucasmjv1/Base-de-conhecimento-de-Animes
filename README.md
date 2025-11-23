@@ -51,7 +51,7 @@ Ao acessar o site, você será recebido(a) por um visual **bonito e simples**, q
 **O que você vai encontrar hoje:**
 
 * **Conteúdo Inicial:** De imediato, você verá uma lista de animes. Por ter sido desenvolvido em apenas **dois dias**,
-*  o catálogo atual conta com cerca de **50 animes** na lista principal.
+*  o catálogo atual conta com pouco mais de **50 animes** na lista principal, contêm também um carrosel de alguns animes do site.
 * **Interatividade:** Você pode **carregar mais animes** ou usar a função de **pesquisa** para encontrar um título específico dentro do acervo.
 * **O Valor Central:** Ao **clicar em um anime**, você terá acesso à sua **descrição completa**, o que torna a decisão sobre "o que assistir" muito mais fácil e informada.
 
