@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="icon" type="image/png" href="https://i.pinimg.com/1200x/38/dd/24/38dd242cdf0dda34ddf27552c361df89.jpg">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <title>Base de Conhecimentos de Animes</title>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <img src="https://i.pinimg.com/1200x/38/dd/24/38dd242cdf0dda34ddf27552c361df89.jpg" alt="" class="brand-img">
+        <h1>Base de Conhecimentos de Animes</h1>
+      </div>
+      <form class="search" onsubmit="return false;"> <!--barra de pesquisa "todos sabemos"-->
+        <input id="searchInput" type="search" placeholder="Pesquisar anime, autor ou sinopse">
+        <button id="searchBtn" type="button">Buscar</button>
+      </form>
+    </div>
+  </header>
+
+  <section id="hero" class="hero"> 
+    <div class="carousel"> <!--cria o carrossel de imagens abaixo da pesquisa-->
+      <div class="carousel-track"></div>
+      <div class="carousel-overlay">
+        <div class="carousel-text"> <!--colocar nome no carrossel-->
+          <h2 id="heroTitle"></h2>
+          <p id="heroMeta"></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <main>
+    <section class="controls">
+      <div class="controls-left">
+        <select id="filterGenre"> <!--filtrar por gênero "ainda em teste"-->
+          <option value="all">Todos</option>
+        </select>
+      </div>
+      <div class="controls-right">
+        <button id="clearBtn" class="ghost">Limpar</button>
+      </div>
+    </section>
+
+    <section class="card-container" aria-live="polite"></section>
+
+    <div class="more-wrapper">
+      <button id="loadMore" class="primary">Carregar mais</button> <!--carregar mais animes 
+        "é melhor buscar pesquisando"-->
+
+    </div>
+  </main>
+
+  <div id="modal" class="modal" aria-hidden="true"><!--basicamente todas as informações dos cards-->
+    <div class="modal-content">
+      <button id="modalClose" class="modal-close">✕</button>
+      <div class="modal-body">
+        <img id="modalImg" alt="">
+        <div class="modal-info">
+          <h3 id="modalTitle"></h3>
+          <p id="modalMeta"></p>
+          <p id="modalSinopse"></p>
+          <div id="modalLinks" class="modal-links"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <ul class="footer-links">
+      <li><a href="https://github.com/lucasmjv1" target="_blank" rel="noopener">Github</a></li>
+      <li><a href="https://www.instagram.com/lucas_adrian3467/" target="_blank" rel="noopener">Instagram</a></li>
+      <li><a href="https://www.linkedin.com/in/lucas-adriel-174443389/" target="_blank" rel="noopener">LinkedIn</a></li>
+    </ul>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
