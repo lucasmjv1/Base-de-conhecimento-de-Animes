@@ -5,7 +5,7 @@ De fã para fã: A sua bússola para navegar pelo mundo dos animes de forma lega
 
 Este projeto serve como uma poderosa base de conhecimentos, reunindo detalhes essenciais sobre animes e, o mais importante, apontando o caminho exato para todas as plataformas de streaming confiáveis. Nunca mais perca tempo procurando onde assistir ao seu título favorito!
 
-💡 O Propósito (Why?)
+💡 O Propósito
 No dia a dia de um fã de animes, a maior frustração não é escolher o que assistir, mas sim saber onde encontrar o conteúdo de forma legal e segura. Com a fragmentação do mercado (Crunchyroll, Netflix, Prime Video, Disney+, etc.), o catálogo se dispersa e a busca torna-se exaustiva.
 
 Este projeto nasceu para centralizar essa informação. Ele é a sua referência única, eliminando dúvidas e levando o usuário diretamente à fonte oficial.
