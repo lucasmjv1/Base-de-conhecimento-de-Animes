@@ -58,4 +58,4 @@ LinkedIn: https://www.linkedin.com/in/lucas-adriel-174443389/
 
 Instagram: https://www.instagram.com/lucas_adrian3467/
 
-Feito com amor💜 e muito código por Lucas Adriel C.D.A
+Feito com amor💜 e muito código por *Lucas Adriel C.D.A*
