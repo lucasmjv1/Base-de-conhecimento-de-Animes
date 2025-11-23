@@ -1,4 +1,4 @@
-* Este site pode conter links não funcionais por falta de tempo mais os mais famosos estão funcionando esperamos que aproveite tudo que tem a oferecer. Agradeço desde já!*
+# Este site pode conter links não funcionais por falta de tempo mais os mais famosos estão funcionando esperamos que aproveite tudo que tem a oferecer. Agradeço desde já!
 
 🌟 Base de Conhecimento Anime | O Guia Definitivo de Streaming
 De fã para fã: A sua bússola para navegar pelo mundo dos animes de forma legal e segura.
